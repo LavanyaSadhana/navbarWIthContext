@@ -1,0 +1,31 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.home-container-dark {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-between;
+  background-color: #000;
+}
+.home-container-light {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: space-between;
+  background-color: #fff;
+}
+.about-dark {
+  margin-top: 40px;
+  width: 200px;
+  height: 150px;
+}
+.home-heading-light {
+  color: #000;
+  text-align: center;
+}
+.home-heading-dark {
+  color: #fff;
+  text-align: center;
+}
